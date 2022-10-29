@@ -1,3 +1,4 @@
 ## Title: Authentication
+## Interface: 100000
 
 Authentication.lua
